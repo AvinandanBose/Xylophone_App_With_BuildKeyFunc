@@ -1,6 +1,6 @@
-# Xylophone_App 
+# Xylophone_App_With_BuildKeyFunc
 
-A new Flutter project. A musical app showing different sounds in the app. 
+A new Flutter project. A musical app showing different sounds in the app. Build key function is made in this app to simplify the coding .
 
 ## Getting Started
 
